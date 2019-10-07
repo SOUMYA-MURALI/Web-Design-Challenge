@@ -1,6 +1,6 @@
 Weather web site  is published at https://soumya-murali.github.io/soumya.github.io/
 
-Pyber web site is published at https://soumya-murali.github.io/soumya.github.io-site1/
+Bonus-Pyber web site is published at https://soumya-murali.github.io/soumya.github.io-site1/
 
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
