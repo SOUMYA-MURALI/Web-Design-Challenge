@@ -1,6 +1,22 @@
+# Web Visualization Dashboard
+
 Weather web site  is published at https://soumya-murali.github.io/soumya.github.io/
 
 Bonus-Pyber web site is published at https://soumya-murali.github.io/soumya.github.io-site1/
+
+
+Created two visualization dashboards for the past assignments weather data and pyber ride sharing company.
+The dashboards consist:-
+
+    landing page,
+    visualization pages,
+    comparison page,
+    data page
+    
+Created individual pages for each plot and a means by which we can navigate between them.These pages will contain the visualizations and their corresponding explanations.Landing page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.Comparison page contains all of the visualizations on the same page.Data page displays a responsive table containing the data used in the visualizations.
+
+
+
 
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
